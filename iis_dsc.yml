@@ -4,4 +4,4 @@
     install_with: ini
   roles:
     - iis-dsc
-    state: present # or 'absent' to remove
+      state: present # or 'absent' to remove
